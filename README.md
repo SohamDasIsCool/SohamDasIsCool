@@ -2,7 +2,6 @@
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning Web Ai.
 - 💞️ I’m looking to collaborate on no one.
-- 📫 How to reach me.
 
 <!---
 SohamDasIsCool/SohamDasIsCool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
